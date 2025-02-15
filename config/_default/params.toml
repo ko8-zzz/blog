@@ -4,68 +4,71 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
 smartTOC = true
+defaultBackgroundImage = "background.jpg"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
 showCopyright = false
-showThemeAttribution = true
-showAppearanceSwitcher = true
-showScrollToTop = true
+showThemeAttribution = false
+showAppearanceSwitcher = false
+showScrollToTop = false
 
 [homepage]
-layout = "background"
+layout = "hero"
 showRecent = true
+homepageImage = "hero.jpg"
 showRecentItems = "5"
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = false
-cardViewScreenWidth = false
-layoutBackgroundBlur = false
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
 
 [article]
 showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
-seriesOpened = false
+seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
-invertPagination = false
+invertPagination = true
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
+showTableOfContents = true
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = false
 
 [list]
 showHero = false
+heroStyle = "basic"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
-showCards = false
+showTableOfContents = true
+showCards = true
 orderByWeight = false
 groupByYear = true
 cardView = false
@@ -77,12 +80,12 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
-showBreadcrumbs = false
-showViews = false
-showLikes = false
-showTableOfContents = false
-cardView = false
+showHero = true
+showBreadcrumbs = true
+showViews = true
+showLikes = true
+showTableOfContents = true
+cardView = true
 
 [term]
 showHero = false
@@ -93,6 +96,7 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+heroStyle = ""
 
 [firebase]
 

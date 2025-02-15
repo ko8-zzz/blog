@@ -3,37 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="jp"
-      href="http://localhost:1313/jp/"
+      hreflang="ja"
+      href="//localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="//localhost:1313/en/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/1739606355818-new/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/1739607462524-test/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
