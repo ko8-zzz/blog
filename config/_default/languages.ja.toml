@@ -15,7 +15,7 @@ title = "ブログ"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "a"
+   name = " "
    email = "tomohiro.kobayashi.fg@gmail.com"
    image = "img/blowfish_logo.png"
    imageQuality = 96

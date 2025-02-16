@@ -9,8 +9,8 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
-smartTOC = true
-defaultBackgroundImage = "background.jpg"
+smartTOC = false
+defaultBackgroundImage = "featured.png"
 
 [header]
 layout = "fixed-fill-blur"
@@ -28,9 +28,9 @@ showRecent = true
 homepageImage = "hero.jpg"
 showRecentItems = "5"
 showMoreLink = true
-showMoreLinkDest = "/posts/"
-cardView = false
-cardViewScreenWidth = true
+showMoreLinkDest = "/blog/posts/"
+cardView = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = true
 
 [article]
@@ -71,9 +71,9 @@ showTableOfContents = true
 showCards = true
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
@@ -94,9 +94,9 @@ showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-heroStyle = ""
+heroStyle = "background"
 
 [firebase]
 

@@ -6,16 +6,46 @@
     <description>Recent content in Tag on ブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <managingEditor>tomohiro.kobayashi.fg@gmail.com (a)</managingEditor>
-    <webMaster>tomohiro.kobayashi.fg@gmail.com (a)</webMaster>
+    <managingEditor>tomohiro.kobayashi.fg@gmail.com ( )</managingEditor>
+    <webMaster>tomohiro.kobayashi.fg@gmail.com ( )</webMaster>
     
-    <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new</title>
+      <link>//localhost:1313/en/posts/1739680240017-new/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <author>tomohiro.kobayashi.fg@gmail.com ( )</author>
+      <guid>//localhost:1313/en/posts/1739680240017-new/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/en/posts/1739680240017-new/featured.png" />
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>//localhost:1313/posts/1739680258444-test2/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <author>tomohiro.kobayashi.fg@gmail.com ( )</author>
+      <guid>//localhost:1313/posts/1739680258444-test2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1739680258444-test2/featured.png" />
+    </item>
+    
+    <item>
+      <title>test3</title>
+      <link>//localhost:1313/posts/1739680273790-test3/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <author>tomohiro.kobayashi.fg@gmail.com ( )</author>
+      <guid>//localhost:1313/posts/1739680273790-test3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1739680273790-test3/featured.png" />
+    </item>
     
     <item>
       <title>new</title>
       <link>//localhost:1313/posts/1739606355818-new/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <author>tomohiro.kobayashi.fg@gmail.com (a)</author>
+      <author>tomohiro.kobayashi.fg@gmail.com ( )</author>
       <guid>//localhost:1313/posts/1739606355818-new/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1739606355818-new/featured.png" />
@@ -25,7 +55,7 @@
       <title>test</title>
       <link>//localhost:1313/posts/1739607462524-test/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <author>tomohiro.kobayashi.fg@gmail.com (a)</author>
+      <author>tomohiro.kobayashi.fg@gmail.com ( )</author>
       <guid>//localhost:1313/posts/1739607462524-test/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1739607462524-test/featured.png" />

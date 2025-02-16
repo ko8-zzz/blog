@@ -102,7 +102,7 @@
     "url" : "\/\/localhost:1313\/posts\/1739606355818-new\/",
     "author" : {
       "@type": "Person",
-      "name": "a"
+      "name": " "
     },
     "copyrightYear": "2025",
     "dateCreated": "2025-02-15T00:00:00\u002b00:00",
@@ -120,7 +120,7 @@
 
   
   
-  <meta name="author" content="a" />
+  <meta name="author" content=" " />
   
   
   
@@ -179,13 +179,24 @@
         <nav class="flex space-x-3">
 
             
-            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">ブログ</a>
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">ブログ</a>
             
 
         </nav>
         <nav class="hidden md:flex items-center gap-x-5 md:ml-12 h-12">
 
             
+            
+            
+  <a href="/categories/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="Categories">
+        Category
+    </p>
+</a>
+
+
+
             
             
   <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
@@ -278,6 +289,21 @@
 
 </span>
                     </li>
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/categories/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="Categories">
+            Category
+        </p>
+    </a>
+</li>
+
+
+
 
                     
 
@@ -506,17 +532,10 @@
     
       
       <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
-      alt="a" src="/img/blowfish_logo.png" />
+      alt=" " src="/img/blowfish_logo.png" />
     
   
   <div class="place-self-center">
-    
-    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-      Author
-    </div>
-    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      a
-    </div>
     
     
     <div class="text-sm text-neutral-700 dark:text-neutral-400">Software Developer</div>
@@ -615,44 +634,6 @@
     $(document).ready(onResize);
   })();
 
-
-
-  (function () {
-    var $toc = $('#TableOfContents');
-    if ($toc.length > 0) {
-      var $window = $(window);
-
-      function onScroll() {
-        var currentScroll = $window.scrollTop();
-        var h = $('.anchor');
-        var id = "";
-        h.each(function (i, e) {
-          e = $(e);
-          if (e.offset().top - $(window).height()/3 <= currentScroll) {
-            id = decodeURIComponent(e.attr('id'));
-          }
-        });
-        var active = $toc.find('a.active');      
-        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
-
-        active.each(function (i, e) {
-          
-            $(e).removeClass('active');
-          
-        });
-        $toc.find('a[href="#' + id + '"]').addClass('active')
-        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
-          $(e).children('a').parents('ul').show();          
-        });
-      }
-
-      $window.on('scroll', onScroll);
-      $(document).ready(function () {
-        
-        onScroll();
-      });
-    }
-  })();
 
 
 </script>
@@ -763,6 +744,28 @@ undefined</p>
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="flex justify-between pt-3">
         <span>
+          
+            <a class="flex group mr-3" href="/posts/1739680273790-test3/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >test3</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-02-16T00:00:00&#43;00:00">2025 2月16</time>
+                  
+                </span>
+              </span>
+            </a>
           
         </span>
         <span>
