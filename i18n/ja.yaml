@@ -52,7 +52,7 @@ list:
 
 nav:
   scroll_to_top_title: "TOPへスクロール"
-  skip_to_main: "メインコンテンツへスキップ"
+  skip_to_main: "メインコンテンツへ"
 
 search:
   open_button_title: "検索 (/)"

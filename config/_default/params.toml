@@ -54,7 +54,7 @@ showTaxonomies = true
 showAuthorsBadges = true
 showWordCount = false
 showZenMode = false
-heroStyle = "thumbAndBackground"
+heroStyle = "background"
 
 [list]
 showHero = false
