@@ -2,27 +2,27 @@ disabled = false
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "ブログ"
+title = "ko8-zzz Notes"
 
 [params]
   displayName = "Japanese"
   isoCode = "ja"
   rtl = false
   dateFormat = "2006 Jan2"
-  # logo = "background.jpg"
+  logo = "img/nav_icon42.svg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = " "
+   name = "Tomohiro Kobayashi"
    email = "tomohiro.kobayashi.fg@gmail.com"
-   image = "img/blowfish_logo.png"
+   image = "img/icon.png"
    imageQuality = 96
-   headline = ""
+   headline = "a cloud engineer from Japan, working with a leading manufacturer."
    bio = "Software Developer"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   links = [
+   { email = "tomohiro.kobayashi.fg@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -35,7 +35,7 @@ title = "ブログ"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+   { github = "https://github.com/ko8-zzz" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -44,7 +44,7 @@ title = "ブログ"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
@@ -70,4 +70,4 @@ title = "ブログ"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

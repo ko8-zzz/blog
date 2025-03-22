@@ -1,4 +1,4 @@
-colorScheme = "background"
+colorScheme = "congo"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -6,11 +6,8 @@ enableCodeCopy = true
 replyByEmail = false
 disableImageOptimization = true
 disableTextInHeader = false
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
 smartTOC = false
-defaultBackgroundImage = "featured.png"
 
 [header]
 layout = "fixed-fill-blur"
@@ -23,9 +20,9 @@ showAppearanceSwitcher = false
 showScrollToTop = false
 
 [homepage]
-layout = "hero"
+layout = "background"
 showRecent = true
-homepageImage = "hero.jpg"
+homepageImage = "ripples.svg"
 showRecentItems = "5"
 showMoreLink = true
 showMoreLinkDest = "/blog/posts/"
@@ -39,7 +36,7 @@ showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = true
-showAuthor = true
+showAuthor = false
 showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
@@ -51,12 +48,13 @@ seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = true
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 showTaxonomies = true
-showAuthorsBadges = false
-showWordCount = true
+showAuthorsBadges = true
+showWordCount = false
 showZenMode = false
+heroStyle = "thumbAndBackground"
 
 [list]
 showHero = false
@@ -64,7 +62,7 @@ heroStyle = "basic"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = true
@@ -88,7 +86,7 @@ showTableOfContents = true
 cardView = true
 
 [term]
-showHero = false
+showHero = true
 showBreadcrumbs = false
 showViews = false
 showLikes = false
@@ -96,7 +94,6 @@ showTableOfContents = true
 groupByYear = false
 cardView = true
 cardViewScreenWidth = false
-heroStyle = "background"
 
 [firebase]
 
