@@ -37,9 +37,9 @@ code:
   copied: "コピーしました"
 
 error:
-  404_title: "ページが見つかりませんでした。"
-  404_error: "Error 404"
-  404_description: "休憩しよ"
+  404_title: "Not found page"
+  404_error: ""
+  404_description: "lol :)"
 
 footer:
   dark_appearance: "ダークモードへ切り替え"

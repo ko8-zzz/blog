@@ -4,12 +4,5 @@ pageRef = "posts"
 identifier = "zI2vvnX6nL"
 weight = 9999
 
-
-[[main]]
-name = "Category"
-pageRef = "category"
-identifier = "zh2vvnX6nL"
-weight = 9999
-
 [[footer]]
 none = "none"

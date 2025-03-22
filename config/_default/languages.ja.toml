@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "ko8-zzz Notes"
+title = "ko8 Notes"
 
 [params]
   displayName = "Japanese"
@@ -19,7 +19,7 @@ title = "ko8-zzz Notes"
    email = "tomohiro.kobayashi.fg@gmail.com"
    image = "img/icon.png"
    imageQuality = 96
-   headline = "a cloud engineer from Japan, working with a leading manufacturer."
+   headline = "Software engineer from Japan."
    bio = "Software Developer"
    links = [
    { email = "tomohiro.kobayashi.fg@gmail.com" },
