@@ -94,17 +94,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = true
 cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
-
-[rssnext]

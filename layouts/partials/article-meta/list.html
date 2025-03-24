@@ -13,7 +13,7 @@
 
 {{/* Gather partials for this context */}}
 
-{{ if (.Params.showViews | default (.Site.Params.list.showViews | default false)) }}
+{{/*  {{ if (.Params.showViews | default (.Site.Params.list.showViews | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/views.html" .)) }}
 {{ end }}
 
@@ -23,7 +23,7 @@
 
 {{ if and (eq $scope "single") (.Params.showLikes | default (.Site.Params.list.showLikes | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/likes_button.html" .)) }}
-{{ end }}
+{{ end }}  */}}
 
 
 <div class="flex flex-row flex-wrap items-center">

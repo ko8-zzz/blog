@@ -218,14 +218,24 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+}
+
+h1 {
+ margin: 0;
+}
+
+h2 {
+  background-color: rgba(255, 255, 255, 0.25); /* 半透明の白 */
+  backdrop-filter: blur(1px); /* ぼかし効果 */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* 半透明の境界線 */
+  border-radius: 5px; /* 角を丸くする */
+  padding: 3px 3px;
 }
 
 /*
@@ -949,7 +959,7 @@ select {
   font-weight:800;
   font-size:2.25em;
   margin-top:0;
-  margin-bottom:0.8888889em;
+  margin-bottom:0.1188889em;
   line-height:1.1111111
 }
 
@@ -2734,7 +2744,7 @@ select {
 }
 
 .text-4xl {
-  font-size:2.25rem;
+  font-size:2.4rem;
   line-height:2.5rem
 }
 
@@ -5632,4 +5642,11 @@ pre {
   .print\:hidden {
     display:none
   }
+}
+
+
+.bg-home-hero {
+  background-color: rgba(255, 255, 255, 0.15); /* 半透明の白 */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* 半透明の境界線 */
+  border-radius: 7px; /* 角を丸くする 
 }

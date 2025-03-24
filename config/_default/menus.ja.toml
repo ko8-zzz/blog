@@ -2,13 +2,19 @@
 name = "Posts"
 pageRef = "posts"
 identifier = "zI2vvnX6nL"
-weight = 9999
+weight = 2
 
-# [[main]]
-# name = "Bio"
-# pageRef = "profiles"
-# identifier = "zh2vanX6nL"
-# weight = 9999
+[[main]]
+name = "Profile"
+pageRef = "profiles"
+identifier = "zhfdnX6nL"
+weight = 1
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+identifier = "few8fsda"
+weight = 3
 
 [[footer]]
 none = "none"
