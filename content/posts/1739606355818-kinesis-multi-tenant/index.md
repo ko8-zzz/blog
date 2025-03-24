@@ -1,7 +1,7 @@
 ---
 title: "クロスアカウントにおけるkinesis streamへのデータ投入"
 date: 2025-02-15
-draft: false
+draft: true
 description: "別テナントにあるkinesis Streamにデータを送信する設定方法"
 tags: ["kinesis", "AWS", "クロスアカウント"]
 ---
