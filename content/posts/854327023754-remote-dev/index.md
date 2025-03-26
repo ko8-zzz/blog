@@ -19,7 +19,6 @@ tags: ["AWS", "VScode", EC2]
 
 ### VSCodeのRemote-ssh
 
-
 拡張機能の[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)をインストール
 
 
