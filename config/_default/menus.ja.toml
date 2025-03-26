@@ -6,7 +6,7 @@ weight = 2
 
 [[main]]
 name = "Profile"
-pageRef = "profiles"
+pageRef = "profile"
 identifier = "zhfdnX6nL"
 weight = 1
 

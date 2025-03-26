@@ -53,8 +53,6 @@
     </div>
 
 
-
-
   </section>
   {{ if gt .Pages 0 }}
 
@@ -72,7 +70,7 @@
         {{ if $groupByYear }}
         <div class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
           {{ .Key }}
-        </h2>
+        </div>
         {{ end }}
         {{ range .Pages }}
         {{ partial "article-link/simple.html" . }}

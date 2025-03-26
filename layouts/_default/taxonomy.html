@@ -37,23 +37,22 @@
   <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
   {{ end }}
 
-  {{ if .Site.Params.taxonomy.cardView }}
+    {{ if .Site.Params.taxonomy.cardView }}
 
-  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-    {{ range .Data.Terms }}
-    {{ partial "term-link/card.html" . }}
+    <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+      {{ range .Data.Terms }}
+      {{ partial "term-link/card.html" . }}
+      {{ end }}
+    </section>
+
+    {{ else }}
+
+    <section class="flex flex-wrap max-w-prose -mx-2 overflow-hidden">
+      {{ range .Data.Terms }}
+        {{ partial "term-link/text.html" . }}
+      {{ end }}
+    </section>
+
     {{ end }}
-  </section>
-
-  {{ else }}
-
-  <section class="flex flex-wrap max-w-prose -mx-2 overflow-hidden">
-    {{ range .Data.Terms }}
-      {{ partial "term-link/text.html" . }}
-    {{ end }}
-  </section>
-
-  {{ end }}
-
 
 {{ end }}

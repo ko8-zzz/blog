@@ -30,6 +30,7 @@ enableEmoji = true
   author = "authors"
   series = "series"
   profile = "profile"
+  test = "test"
 
 [sitemap]
   changefreq = 'daily'
@@ -47,9 +48,12 @@ enableEmoji = true
         name = "tags"
         weight = 100
 
-
     [[related.indices]]
         name = "profile"
+        weight = 101
+
+    [[related.indices]]
+        name = "test"
         weight = 100
 
     [[related.indices]]
