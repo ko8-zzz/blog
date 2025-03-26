@@ -22,6 +22,8 @@
       {{ partial "article-meta/taxonomy.html" (dict "context" . "scope" "single") }}
     </div>
   </header>
+
+  
   {{ if .Content }}
     <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
       <div class="min-w-0 min-h-0 max-w-prose">
@@ -34,6 +36,7 @@
   </script>
   {{ $jsPage := resources.Get "js/page.js" }}
   {{ $jsPage = $jsPage | resources.Minify | resources.Fingerprint "sha512" }}
+  
   <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
   {{ end }}
 
@@ -54,5 +57,6 @@
     </section>
 
     {{ end }}
+
 
 {{ end }}

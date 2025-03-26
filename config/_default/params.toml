@@ -94,3 +94,6 @@ showTableOfContents = true
 groupByYear = false
 cardView = true
 cardViewScreenWidth = false
+
+[profile]
+profile = true
