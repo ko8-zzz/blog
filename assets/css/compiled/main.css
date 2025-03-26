@@ -218,7 +218,6 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h3,
 h4,
 h5,
 h6 {
@@ -227,8 +226,13 @@ h6 {
 }
 
 h1 {
- margin: 0;
+  position: relative;
+  padding: 0.25em 1em;
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  background-color: #6b7280;
 }
+
 
 h2 {
   background-color: rgba(255, 255, 255, 0.25); /* 半透明の白 */
@@ -236,6 +240,10 @@ h2 {
   border: 1px solid rgba(255, 255, 255, 0.1); /* 半透明の境界線 */
   border-radius: 5px; /* 角を丸くする */
   padding: 3px 3px;
+}
+
+h3 {
+  border-bottom: #9ca3af 1px solid;
 }
 
 /*
@@ -5648,5 +5656,7 @@ pre {
 .bg-home-hero {
   background-color: rgba(255, 255, 255, 0.15); /* 半透明の白 */
   border: 1px solid rgba(255, 255, 255, 0.2); /* 半透明の境界線 */
-  border-radius: 7px; /* 角を丸くする 
+  border-radius: 7px; 
 }
+
+

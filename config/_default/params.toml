@@ -23,6 +23,8 @@ showScrollToTop = false
 layout = "background"
 showRecent = true
 homepageImage = "ripples.svg"
+backgroudImage = "ripples.svg"
+
 showRecentItems = "5"
 showMoreLink = true
 showMoreLinkDest = "/blog/posts/"
@@ -55,6 +57,7 @@ showAuthorsBadges = true
 showWordCount = false
 showZenMode = false
 heroStyle = "background"
+
 
 [list]
 showHero = false
