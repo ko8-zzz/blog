@@ -40,6 +40,11 @@ export HTTPS_PROXY=http://{proxy}:{port}
 
 [asdf](https://asdf-vm.com/)が便利。Python,nodejs,go等基本的なプログラミング言語毎にバージョンを簡単に変更できる。
 
+[mise](https://github.com/jdx/mise)もあるが、試していない。
+rustの恩恵なのかasdfよりもオーバーヘッドが少ないようです。
+実行コマンドも少なくバージョン管理ができるようなので、asdfから乗り換えても良さそう。
+
+
 ### 便利なLinuxライブラリ
 - [neovim](https://github.com/neovim/neovim)
 - [fuzzyfinder](https://github.com/junegunn/fzf)
