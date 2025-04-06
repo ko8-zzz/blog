@@ -10,6 +10,35 @@ Email : tomohiro.kobayashi.eg@gmail.com
 勤務地 : FUJIFILM Business Innovation Corp.  
 ソフトウェアエンジニア歴 : 4年
 
+## 技術スタック
+
+### 言語
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+## フレームワーク
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+
+### クラウド
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+
+### IDE
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+
+# DB 
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 ## 経歴
 |年|部署|業務概要|
 |---|---|---|
@@ -28,9 +57,6 @@ Email : tomohiro.kobayashi.eg@gmail.com
 # 職務経歴
 - 職務要約 
 業務では、[MSP](https://e-words.jp/w/MSP.html)サービスであるMPS Guardiaのテスト、機能開発、品質向上、およびAWSコスト削減活動に従事し、技術選定から実装、さらにテスト自動化ツールの導入まで幅広い役割を担いました。また、IT Expert Servicesの立ち上げに際し、国内代理店がない海外SaaS製品の導入支援に取り組み、新たなサービスや技術の推進に貢献しました。さらに、若手の技術力向上を目的としたボトムアップ型の社内ハッカソンを自ら提案・実現しました。ハッカソンでは、生成AIを組み込んだWebアプリの開発を通じて革新的なアイデアを提案し、チームや組織に新たな価値をもたらしました。これらの活動を通じて培った課題提案力と解決力を活かし、チームへの貢献を続けています。 
-
-一旦、やった業務をリスト化してみる。
-TBD
 
 ## 業務詳細
 - 期間 

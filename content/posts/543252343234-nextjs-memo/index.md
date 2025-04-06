@@ -1,7 +1,7 @@
 ---
 title: "Nextjsメモ"
 date: 2024-12-25
-draft: false
+draft: true
 description: "Nextjsのメモ"
 tags: ["nextjs"]
 ---
