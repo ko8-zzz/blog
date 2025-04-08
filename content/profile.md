@@ -11,33 +11,26 @@ Email : tomohiro.kobayashi.eg@gmail.com
 ソフトウェアエンジニア歴 : 4年
 
 ## 技術スタック
-
-<div style="display:flex">
-  <tr>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></td>
-  </tr>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 </div>
 
-<div style="display:flex">
-  <tr>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></td>
-  </tr>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" ald="docker">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 </div>
 
-<div style="display:flex">
-  <tr>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></td>
-    <td><img style="padding:5px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></td>
-  </tr>
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <img  src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff">
+    <img  src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+    <img  src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
 </div>
 
 ## 経歴
