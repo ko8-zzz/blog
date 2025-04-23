@@ -5,7 +5,7 @@ layout: "profile"
 
 # 自己紹介
 名前 : 小林 友洋  (Kobayashi Tomohiro)  
-Email : tomohiro.kobayashi.eg@gmail.com  
+Email : tomohiro.kobayashi.fg@gmail.com  
 住所 : Japan kanagawa  
 勤務地 : FUJIFILM Business Innovation Corp.  
 ソフトウェアエンジニア歴 : 4年
