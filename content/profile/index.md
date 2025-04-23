@@ -93,14 +93,47 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 ## 経歴
 
-| 年            | 部署                                             | 業務概要                                                 |
-| ------------- | ------------------------------------------------ | -------------------------------------------------------- |
-| 2019 年 4 月  | 入学 青山学院大学 大学院                         | 理工学専攻 生体情報に関する研究                          |
-| 2021 年 4 月  | 入社 富士フイルムビジネスイノベーション株式会社  | 研修                                                     |
-| 2021 年 6 月  | 配属 EDS 事業本部 ソリューション基盤開発 G       | MPS Guardia のバグ修正(AR 対応) / テストを担当           |
-| 2022 年 10 月 | 部署名変更 BSS 事業本部 ソリューション基盤開発 G | MPS Guardia の機能開発 / 複合機サービスのテストを担当    |
-| 2024 年 4 月  | 部署名変更 BS 事業本部 ソリューション基盤開発 G  | MPS Guardia の機能開発 / IT Expert Services の開発を担当 |
-| 2025 年 4 月  | 異動 BS 事業本部 ネットワークサービス開発 G      | MPS Guardia の機能開発 / IT Expert Services の開発を担当 |
+<table style="">
+    <thead>
+      <tr style="background-color:#1e50a2; color:#ffffff;">
+        <th style="padding:10px; border:1px solid #778899;"></th>
+        <th style="padding:10px; border:1px solid #778899;">キャリア</th>
+        <th style="padding:10px; border:1px solid #778899;">業務概要</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:10px; border:1px solid #778899;">2019 年 4 月</td>
+        <td style="padding:10px; border:1px solid #778899;">入学 青山学院大学 大学院</td>
+        <td style="padding:10px; border:1px solid #778899;">理工学専攻 生体情報に関する研究</td>
+      </tr>
+      <tr style="background-color:;">
+        <td style="padding:10px; border:1px solid #778899;">2021 年 4 月</td>
+        <td style="padding:10px; border:1px solid #778899;">入社 富士フイルムビジネスイノベーション株式会社</td>
+        <td style="padding:10px; border:1px solid #778899;">研修</td>
+      </tr>
+      <tr>
+        <td style="padding:10px; border:1px solid #778899;">2021 年 6 月</td>
+        <td style="padding:10px; border:1px solid #778899;">配属 EDS 事業本部 ソリューション基盤開発 G</td>
+        <td style="padding:10px; border:1px solid #778899;">MPS Guardia のバグ修正(AR 対応) / テストを担当</td>
+      </tr>
+      <tr style="background-color:;">
+        <td style="padding:10px; border:1px solid #778899;">2022 年 10 月</td>
+        <td style="padding:10px; border:1px solid #778899;">部署名変更 BSS 事業本部 ソリューション基盤開発 G</td>
+        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / 複合機サービスのテストを担当</td>
+      </tr>
+      <tr>
+        <td style="padding:10px; border:1px solid #778899;">2024 年 4 月</td>
+        <td style="padding:10px; border:1px solid #778899;">部署名変更 BS 事業本部 ソリューション基盤開発 G</td>
+        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / IT Expert Services の開発を担当</td>
+      </tr>
+      <tr style="background-color:;">
+        <td style="padding:10px; border:1px solid #778899;">2025 年 4 月</td>
+        <td style="padding:10px; border:1px solid #778899;">異動 BS 事業本部 ネットワークサービス開発 G</td>
+        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / IT Expert Services の開発を担当</td>
+      </tr>
+    </tbody>
+  </table>
 
 **[開発担当商品]**
 
