@@ -13,53 +13,6 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 ## 技術スタック
 
-<!-- <table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>カテゴリ</th>
-      <th>技術・ツール名</th>
-      <th>概要</th>
-      <th>経験年数</th>
-      <th>実務以外での利用/学習</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="4">言語</td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="margin:0;"></td>
-      <td>Web開発、スクリプト作成、データ分析</td>
-      <td>3年</td>
-      <td>個人開発、Kaggle参加</td>
-    </tr>
-    <tr>
-    <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" style="margin:0;"></td>
-    </td>
-      <td></td>
-      <td>1年</td>
-      <td></td>
-    <tr>
-      <td>JavaScript</td>
-      <td>フロントエンド開発、React使用</td>
-      <td>2年</td>
-      <td>ポートフォリオサイト制作</td>
-    </tr>
-    <tr>
-      <td>DB</td>
-      <td>PostgreSQL</td>
-      <td>Webアプリのバックエンド用</td>
-      <td>2年</td>
-      <td>Docker環境で学習</td>
-    </tr>
-    <tr>
-      <td>OS</td>
-      <td>Linux</td>
-      <td>開発・運用環境で使用</td>
-      <td>3年</td>
-      <td>自宅サーバ構築</td>
-    </tr>
-  </tbody>
-</table> -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 5px; padding:3px">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="margin:0;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" style="margin:0;">
@@ -179,6 +132,31 @@ Email : tomohiro.kobayashi.fg@gmail.com
 - Amazon SQS
 - AWS Lambda
 
+## 営業向けバックポータルシステムとのデータ連携機能の改修
+
+- 期間 2024/04 - 2024/10
+
+### 担当業務
+TBD
+### 業務内容
+TBD
+### 使用技術
+TBD
+[言語]
+Java
+
+## お客様向け月次pdfレポート生成機能の開発
+
+- 期間 2023/09 - 2024/04
+
+### 担当業務
+TBD
+### 業務内容
+TBD
+### 使用技術
+TBD
+
+
 # 大学院 研究内容
 
 ## 生体計測・感性工学に関する研究
@@ -197,6 +175,6 @@ Email : tomohiro.kobayashi.fg@gmail.com
 ### Demo
 
 <div style="display: flex; flex-wrap: wrap; gap:5px;">
-    <img src="./thermal_image_1-1.gif" width="500" height="100">
-    <img src="./thermal_image_1-2.gif" width="500" height="100">
+    <img src="./thermal_image_1-1.gif" width="500">
+    <img src="./thermal_image_1-2.gif" width="500">
 </div>
