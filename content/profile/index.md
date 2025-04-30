@@ -13,53 +13,6 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 ## 技術スタック
 
-<!-- <table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>カテゴリ</th>
-      <th>技術・ツール名</th>
-      <th>概要</th>
-      <th>経験年数</th>
-      <th>実務以外での利用/学習</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="4">言語</td>
-      <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="margin:0;"></td>
-      <td>Web開発、スクリプト作成、データ分析</td>
-      <td>3年</td>
-      <td>個人開発、Kaggle参加</td>
-    </tr>
-    <tr>
-    <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" style="margin:0;"></td>
-    </td>
-      <td></td>
-      <td>1年</td>
-      <td></td>
-    <tr>
-      <td>JavaScript</td>
-      <td>フロントエンド開発、React使用</td>
-      <td>2年</td>
-      <td>ポートフォリオサイト制作</td>
-    </tr>
-    <tr>
-      <td>DB</td>
-      <td>PostgreSQL</td>
-      <td>Webアプリのバックエンド用</td>
-      <td>2年</td>
-      <td>Docker環境で学習</td>
-    </tr>
-    <tr>
-      <td>OS</td>
-      <td>Linux</td>
-      <td>開発・運用環境で使用</td>
-      <td>3年</td>
-      <td>自宅サーバ構築</td>
-    </tr>
-  </tbody>
-</table> -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 5px; padding:3px">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="margin:0;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" style="margin:0;">
@@ -103,34 +56,19 @@ Email : tomohiro.kobayashi.fg@gmail.com
     </thead>
     <tbody>
       <tr>
-        <td style="padding:10px; border:1px solid #778899;">2019 年 4 月</td>
-        <td style="padding:10px; border:1px solid #778899;">入学 青山学院大学 大学院</td>
+        <td style="padding:10px; border:1px solid #778899;">2021 年 3 月</td>
+        <td style="padding:10px; border:1px solid #778899;">【卒業】 大学院</td>
         <td style="padding:10px; border:1px solid #778899;">理工学専攻 生体情報に関する研究</td>
       </tr>
       <tr style="background-color:;">
         <td style="padding:10px; border:1px solid #778899;">2021 年 4 月</td>
-        <td style="padding:10px; border:1px solid #778899;">入社 富士フイルムビジネスイノベーション株式会社</td>
-        <td style="padding:10px; border:1px solid #778899;">研修</td>
-      </tr>
-      <tr>
-        <td style="padding:10px; border:1px solid #778899;">2021 年 6 月</td>
-        <td style="padding:10px; border:1px solid #778899;">配属 EDS 事業本部 ソリューション基盤開発 G</td>
-        <td style="padding:10px; border:1px solid #778899;">MPS Guardia のバグ修正(AR 対応) / テストを担当</td>
+        <td style="padding:10px; border:1px solid #778899;">【入社】 富士フイルムビジネスイノベーション株式会社</td>
+        <td style="padding:10px; border:1px solid #778899;">ソフトウェア開発部門に配属</td>
       </tr>
       <tr style="background-color:;">
-        <td style="padding:10px; border:1px solid #778899;">2022 年 10 月</td>
-        <td style="padding:10px; border:1px solid #778899;">部署名変更 BSS 事業本部 ソリューション基盤開発 G</td>
-        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / 複合機サービスのテストを担当</td>
-      </tr>
-      <tr>
-        <td style="padding:10px; border:1px solid #778899;">2024 年 4 月</td>
-        <td style="padding:10px; border:1px solid #778899;">部署名変更 BS 事業本部 ソリューション基盤開発 G</td>
-        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / IT Expert Services の開発を担当</td>
-      </tr>
-      <tr style="background-color:;">
-        <td style="padding:10px; border:1px solid #778899;">2025 年 4 月</td>
-        <td style="padding:10px; border:1px solid #778899;">異動 BS 事業本部 ネットワークサービス開発 G</td>
-        <td style="padding:10px; border:1px solid #778899;">MPS Guardia の機能開発 / IT Expert Services の開発を担当</td>
+        <td style="padding:10px; border:1px solid #778899;">🚩</td>
+        <td style="padding:10px; border:1px solid #778899;">【現職】 富士フイルムビジネスイノベーション株式会社</td>
+        <td style="padding:10px; border:1px solid #778899;">ネットワークサービス開発部門</td>
       </tr>
     </tbody>
   </table>
@@ -152,9 +90,9 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 ### 担当業務
 
+- 要件定義
 - 基本設計
 - 詳細設計
-- 技術選定
 - 実装
 - 単体テスト
 
@@ -166,7 +104,7 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 [言語]
 
-- python
+- Python
 
 [AWS]
 
@@ -178,6 +116,64 @@ Email : tomohiro.kobayashi.fg@gmail.com
 - Amazon S3
 - Amazon SQS
 - AWS Lambda
+
+## 営業向けバックポータルシステムとのデータ連携機能の改修
+
+- 期間 2024/04 - 2024/10
+
+### 担当業務
+
+- 基本設計
+- 詳細設計
+- 実装
+- 単体テスト
+
+### 業務内容
+
+担当サービスであるMPS Guardiaの連携サブシステムである営業向けバックポータルシステムとのデータ連携インターフェイス及びロジックの改修業務。
+営業向けバックポータルシステムは15分毎にcsvファイルを生成し、生成されたcsvデータに対し、Amazon EMRを使用しMPS Guardiaで使用可能なデータ形式に変換し連携を行う。
+
+### 使用技術
+
+[言語]
+Java
+
+[AWS]
+
+- AWS EMR
+
+## お客様向け月次pdfレポート生成機能の開発
+
+- 期間 2023/09 - 2024/04
+
+### 担当業務
+
+- 要求整理
+- 要件定義
+- 基本設計
+- 詳細設計
+- 実装
+- 単体テスト
+
+### 業務内容
+
+担当サービスであるIT Expert Servicesの月次で提供しているpdfレポートを提供するためのデータ集計処理機能の実装を担当。
+
+### 使用技術
+
+[言語]
+
+- Python
+- Go
+- HTML / CSS / JavaScript
+
+[AWS]
+
+- AWS Glue
+- AWS Lambda
+- AWS ECS
+- Amazon Athena
+- Amazon S3
 
 # 大学院 研究内容
 
@@ -197,6 +193,6 @@ Email : tomohiro.kobayashi.fg@gmail.com
 ### Demo
 
 <div style="display: flex; flex-wrap: wrap; gap:5px;">
-    <img src="./thermal_image_1-1.gif" width="500" height="100">
-    <img src="./thermal_image_1-2.gif" width="500" height="100">
+    <img src="./thermal_image_1-1.gif" width="500">
+    <img src="./thermal_image_1-2.gif" width="500">
 </div>
