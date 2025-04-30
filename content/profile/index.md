@@ -7,12 +7,12 @@ layout: "profile"
 
 名前 : 小林 友洋 (Kobayashi Tomohiro)  
 Email : tomohiro.kobayashi.fg@gmail.com  
-住所 : Japan kanagawa  
 勤務地 : FUJIFILM Business Innovation Corp.  
 ソフトウェアエンジニア歴 : 4 年
 
 ## 技術スタック
 
+💻**プログラミング言語**
 <div style="display: flex; flex-wrap: wrap; gap: 5px; padding:3px">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" style="margin:0;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" style="margin:0;">
@@ -21,6 +21,8 @@ Email : tomohiro.kobayashi.fg@gmail.com
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" style="margin:0;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" style="margin:0;">
 </div>
+
+🛠️**フレームワーク/ライブラリ**
 <div style="display: flex; flex-wrap: wrap; gap: 5px; padding:3px">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" ald="docker" style="margin:0;">
     <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" style="margin:0;">
@@ -28,6 +30,7 @@ Email : tomohiro.kobayashi.fg@gmail.com
     <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" style="margin:0;">
 </div>
 
+🗄️**データベース**
 <div style="display: flex; flex-wrap: wrap; gap: 5px; padding:3px">
     <img  src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff" style="margin:0;">
     <img  src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" style="margin:0;">
@@ -48,7 +51,7 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 <table style="">
     <thead>
-      <tr style="background-color:#1e50a2; color:#ffffff;">
+      <tr style="background-color:#333c5e; color:#ffffff;">
         <th style="padding:10px; border:1px solid #778899;"></th>
         <th style="padding:10px; border:1px solid #778899;">キャリア</th>
         <th style="padding:10px; border:1px solid #778899;">業務概要</th>
@@ -81,41 +84,46 @@ Email : tomohiro.kobayashi.fg@gmail.com
 
 # 職務経歴
 
-- 職務要約  
+### 職務要約  
   業務では、[MSP](https://e-words.jp/w/MSP.html)サービスである MPS Guardia のテスト、機能開発、品質向上、および AWS コスト削減活動に従事し、技術選定から実装、さらにテスト自動化ツールの導入まで幅広い役割を担いました。また、IT Expert Services の立ち上げに際し、国内代理店がない海外 SaaS 製品の導入支援に取り組み、新たなサービスや技術の推進に貢献しました。さらに、若手の技術力向上を目的としたボトムアップ型の社内ハッカソンを自ら提案・実現しました。ハッカソンでは、生成 AI を組み込んだ Web アプリの開発を通じて革新的なアイデアを提案し、チームや組織に新たな価値をもたらしました。これらの活動を通じて培った課題提案力と解決力を活かし、チームへの貢献を続けています。
 
-## IoT デバイスから連携されるデータのフィルタリング機能の開発
 
-- 期間 2024/11 - 2025/03
+<div style="background-color:#333c5e; padding:10px; margin:10px;  border-radius:10px; color:#fff;" >
+  <h2> IoT デバイスから連携されるデータのフィルタリング機能の開発 </h2>
 
-### 担当業務
+  - 期間 2024/11 - 2025/03
 
-- 要件定義
-- 基本設計
-- 詳細設計
-- 実装
-- 単体テスト
+  <h3> 担当業務 </h3>
 
-### 業務内容
+  - 要件定義
+  - 基本設計
+  - 詳細設計
+  - 実装
+  - 単体テスト
 
-複合機から連携される障害/消耗品情報に対し、任意の設定に基づいて後続システムに連携処理判定を実施するフィルター機能の開発を担当。
+  <h3> 業務内容 </h3>
 
-### 使用技術
+  複合機から連携される障害/消耗品情報に対し、任意の設定に基づいて後続システムに連携処理判定を実施するフィルター機能の開発を担当。
 
-[言語]
+  <h3> 使用技術 </h3>
 
-- Python
+  [言語]
 
-[AWS]
+  - Python
 
-- AWS kinesis stream
-- Amazon Managed Service for Apache Flink
-- Amazon Aurora(MySQL)
-- Amazon Elasticache
-- Amazon DynamoDB
-- Amazon S3
-- Amazon SQS
-- AWS Lambda
+  [AWS]
+
+  - AWS kinesis stream
+  - Amazon Managed Service for Apache Flink
+  - Amazon Aurora(MySQL)
+  - Amazon Elasticache
+  - Amazon DynamoDB
+  - Amazon S3
+  - Amazon SQS
+  - AWS Lambda
+</div>
+
+<div style="background-color:#333c5e; padding:10px; margin:10px; border-radius:10px; color:#fff;" >
 
 ## 営業向けバックポータルシステムとのデータ連携機能の改修
 
@@ -141,6 +149,10 @@ Java
 [AWS]
 
 - AWS EMR
+
+</div>
+
+<div style="background-color:#333c5e; padding:10px; margin:10px; border-radius:10px; color:#fff;" >
 
 ## お客様向け月次pdfレポート生成機能の開発
 
@@ -174,6 +186,10 @@ Java
 - AWS ECS
 - Amazon Athena
 - Amazon S3
+
+</div>
+
+
 
 # 大学院 研究内容
 
