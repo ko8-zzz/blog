@@ -135,7 +135,7 @@ layout: "profile"
 
   <h2> お客様向け月次pdfレポート生成機能の開発 </h2>
 
-    <div style="font-size:1.2rem; ">期間 : 2023年9月 - 2024年4月</div>
+  <div style="font-size:1.2rem; ">期間 : 2023年9月 - 2024年4月</div>
 
   <h3> 担当業務 </h3>
 
