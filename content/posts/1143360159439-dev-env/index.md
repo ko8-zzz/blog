@@ -44,8 +44,32 @@ export HTTPS_PROXY=http://{proxy}:{port}
 rustの恩恵なのかasdfよりもオーバーヘッドが少ないようです。
 実行コマンドも少なくバージョン管理ができるようなので、asdfから乗り換えても良さそう。
 
+[sdkman](https://sdkman.io/)はJavaのバージョンを管理するのに便利。
+Eclipseを使用せずに、CLIベースでJavaアプリケーションを開発する場合、Javaバージョンの切り替えを簡単にしてくれます。
 
 ### 便利なLinuxライブラリ
 - [neovim](https://github.com/neovim/neovim)
 - [fuzzyfinder](https://github.com/junegunn/fzf)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+
+#### Neovimのカスタマイズ設定
+
+Neovimの設定は[Lua](https://neovim.io/doc/user/lua-guide.html)で書いていきます。
+WSL2のUbuntu環境上で動かしている場合、下記ファイルを作成する
+~/.config/nvim/init.lua
+作成したluaファイルにneovimの設定を記載する。
+
+```lua
+
+-- 行番号を表示
+vim.opt.number = true
+
+-- 相対行番号も表示（オプション）
+vim.opt.relativenumber = true
+
+```
+
+# asdfのセットアップ
+
+※asdfはバージョン1.16.0から後方互換性無しのバージョンアップがされています。
+以降、バージョン1.16.0以降のコマンドです。
