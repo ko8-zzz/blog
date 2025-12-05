@@ -7,7 +7,7 @@ layout: "profile"
 
 名前 : 小林 友洋 (Kobayashi Tomohiro)  
 勤務 : FUJIFILM Business Innovation Corp.  
-ソフトウェアエンジニア歴 : 4 年
+ソフトウェアエンジニア歴 : 5 年
 
 
 <h2> 技術スタック </h2>
@@ -41,10 +41,12 @@ layout: "profile"
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="./aws-sap.png" width="100" height="100">
+    <img src="./aws-dop.png" width="100" height="100">
     <img src="./aws-saa.png" width="100" height="100">
     <img src="./aws-daa.png" width="100" height="100">
     <img src="./aws-soa.png" width="100" height="100">
     <img src="./aws-dea.png" width="100" height="100">
+    <img src="./aws-cpa.png" width="100" height="100">
 </div>
 
 ## 経歴

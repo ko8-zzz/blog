@@ -56,7 +56,6 @@ enableEmoji = true
         name = "series"
         weight = 50
 
-
     [[related.indices]]
       applyFilter = false
       name = 'fragmentrefs'

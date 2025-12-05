@@ -51,6 +51,7 @@ Eclipseを使用せずに、CLIベースでJavaアプリケーションを開発
 - [neovim](https://github.com/neovim/neovim)
 - [fuzzyfinder](https://github.com/junegunn/fzf)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 #### Neovimのカスタマイズ設定
 
